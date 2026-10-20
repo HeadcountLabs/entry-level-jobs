@@ -8,7 +8,7 @@ Entry-level, new graduate, junior and early-career jobs in every field at US emp
 
 This list is built and refreshed every day by [Headcount Labs](https://headcountlabs.com/?utm_source=github&utm_medium=job-list&utm_campaign=entry-level-jobs), which reads jobs straight from employers' own career pages and job boards. Every job here was still listed on its source board when we last read that board, within the past 3 days, and was posted in the past 30 days. Copies of the same job are merged into one row, and jobs that close are removed at the next update.
 
-Want this data in your own app or agent? Use the [Headcount Labs jobs API](https://headcountlabs.com/docs/?utm_source=github&utm_medium=job-list&utm_campaign=entry-level-jobs) (free tier) or the [open dataset](https://huggingface.co/datasets/HeadcountLabs/job-postings) on Hugging Face.
+Want this data in your own app or agent? Use the [Headcount Labs jobs API](https://headcountlabs.com/docs/?utm_source=github&utm_medium=job-list&utm_campaign=entry-level-jobs) (free tier), the [MCP server](https://headcountlabs.com/mcp/?utm_source=github&utm_medium=job-list&utm_campaign=entry-level-jobs) for Claude, ChatGPT and other AI assistants, or the [open dataset](https://huggingface.co/datasets/HeadcountLabs/job-postings) on Hugging Face ([example queries](https://github.com/HeadcountLabs/job-postings)).
 
 **Jump to:** [Software engineering (22)](#software-engineering) · [Data, AI and machine learning (8)](#data-ai-and-machine-learning) · [Product and design (10)](#product-and-design) · [Hardware and engineering (55)](#hardware-and-engineering) · [Business, finance and operations (49)](#business-finance-and-operations) · [Healthcare (24)](#healthcare) · [Other roles (104)](#other-roles)
 
